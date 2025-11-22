@@ -1,0 +1,105 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We're here to help. Reach out to us anytime.",
+    "description": "Visit our campus or reach out through any of the channels below. Our admissions team is ready to assist you."
+  },
+  "form": {
+    "title": "Send us a Message",
+    "fields": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "placeholders": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phone": "+91 98765 43210",
+      "subject": "Admission Inquiry",
+      "message": "Tell us how we can help you..."
+    },
+    "submitButton": "Send Message"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Can't find what you're looking for? Check out our FAQ page or contact us directly.",
+    "buttonText": "View FAQs"
+  },
+  "contactInfo": [
+    {
+      "icon": "MapPin",
+      "title": "Address",
+      "content": "Gyanam Academy Campus, Plot No. 123, InfoCity Road, Bhubaneswar, Odisha 751024, India"
+    },
+    {
+      "icon": "Phone",
+      "title": "Phone",
+      "content": "+91-9876543210",
+      "subtext": "Admission: Mon-Sat, 9:00 AM - 5:00 PM"
+    },
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "content": "info@gyanamacademy.edu.in"
+    },
+    {
+      "icon": "Clock",
+      "title": "Office Hours",
+      "content": "Monday - Saturday: 9:00 AM - 6:00 PM"
+    }
+  ],
+  "address": {
+    "line1": "Gyanam Academy Campus",
+    "line2": "Plot No. 123, InfoCity Road",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751024",
+    "country": "India",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3741.23456789!2d85.8245!3d20.2961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDE3JzQ2LjAiTiA4NcKwNDknMjguNCJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+  },
+  "phoneNumbers": [
+    {
+      "type": "Admission",
+      "number": "+91-9876543210",
+      "available": "Mon-Sat, 9:00 AM - 5:00 PM"
+    },
+    {
+      "type": "General Enquiry",
+      "number": "+91-9876543211",
+      "available": "24/7"
+    },
+    {
+      "type": "Principal Office",
+      "number": "+91-9876543212",
+      "available": "Mon-Fri, 10:00 AM - 4:00 PM"
+    }
+  ],
+  "email": {
+    "admission": "admissions@gyanamacademy.edu.in",
+    "info": "info@gyanamacademy.edu.in",
+    "principal": "principal@gyanamacademy.edu.in",
+    "placement": "placement@gyanamacademy.edu.in"
+  },
+  "workingHours": {
+    "academicOffice": "9:00 AM - 5:00 PM (Mon-Sat)",
+    "library": "8:00 AM - 8:00 PM (Mon-Sat)",
+    "cafeteria": "8:00 AM - 7:00 PM (Mon-Sun)",
+    "administrativeOffice": "10:00 AM - 4:00 PM (Mon-Fri)"
+  },
+  "emergencyContacts": [
+    {
+      "name": "Campus Security",
+      "number": "+91-9876543213",
+      "available": "24/7"
+    },
+    {
+      "name": "Medical Emergency",
+      "number": "+91-9876543214",
+      "available": "24/7"
+    }
+  ]
+}

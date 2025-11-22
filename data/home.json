@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "title": "Welcome to",
+    "highlightedTitle": "Gyanam Academy",
+    "description": "A premier educational institution in Sukansuti, Assam, providing quality education from Class 1 to 12 with modern facilities and dedicated faculty.",
+    "carouselImages": [
+      "gallary/gal0.jpg",
+      "gallary/gal1.jpg",
+      "gallary/gal3.jpg"
+    ],
+    "ctaButtons": [
+      {
+        "text": "Our Programs",
+        "url": "/courses",
+        "variant": "default"
+      },
+      {
+        "text": "Contact Us",
+        "url": "/contact",
+        "variant": "outline"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "724",
+      "label": "Students"
+    },
+    {
+      "icon": "BookOpen",
+      "value": "1-12",
+      "label": "Classes"
+    },
+    {
+      "icon": "Award",
+      "value": "100%",
+      "label": "Pass Rate"
+    },
+    {
+      "icon": "Building2",
+      "value": "2012",
+      "label": "Established"
+    }
+  ],
+  "features": {
+    "title": "Why Choose Gyanam Academy?",
+    "subtitle": "We provide a nurturing environment that fosters academic excellence and holistic development",
+    "items": [
+      {
+        "icon": "CheckCircle2",
+        "title": "Qualified Teachers",
+        "description": "Experienced and dedicated faculty members"
+      },
+      {
+        "icon": "CheckCircle2",
+        "title": "Modern Infrastructure",
+        "description": "Well-equipped classrooms and learning spaces"
+      },
+      {
+        "icon": "CheckCircle2",
+        "title": "Digital Learning",
+        "description": "Computer lab with internet access"
+      },
+      {
+        "icon": "CheckCircle2",
+        "title": "Holistic Development",
+        "description": "Focus on academics, sports, and cultural activities"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "description": "Join thousands of students who have transformed their lives at Gyanam Academy",
+    "buttonText": "Apply Now",
+    "buttonUrl": "/contact"
+  }
+}

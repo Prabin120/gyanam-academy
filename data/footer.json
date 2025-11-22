@@ -1,0 +1,23 @@
+{
+  "brand": {
+    "logo": "/logo.png",
+    "name": "Gyanam Academy",
+    "description": "A premier educational institution in Sukansuti, Assam, providing quality education from Class 1 to 12 with modern facilities and dedicated faculty.",
+    "logoHeight": "h-16"
+  },
+  "quickLinks": [
+    { "text": "About Us", "url": "/about" },
+    { "text": "Courses", "url": "/courses" },
+    { "text": "Achievements", "url": "/achievements" },
+    { "text": "Contact", "url": "/contact" }
+  ],
+  "contactInfo": {
+    "address": "Sukansuti, Assam, India - 784113",
+    "phone": "+91 12345 67890",
+    "email": "info@gyanamacademy.edu.in"
+  },
+  "socialMedia": [
+    { "platform": "Facebook", "url": "https://www.facebook.com/profile.php?id=100086707585300", "icon": "Facebook" }
+  ],
+  "copyright": "Gyanam Academy. All rights reserved."
+}

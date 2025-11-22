@@ -1,0 +1,169 @@
+{
+  "hero": {
+    "title": "About Gyanam Academy",
+    "subtitle": "Established in 2012, we have been providing quality education in Sukansuti, Assam for over a decade."
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "Gyanam Academy was established in 2012 with a vision to provide quality education to the rural community of Sukansuti, Assam. Starting as a small educational institution, we have grown to serve students from Class 1 to 12, becoming a beacon of learning in the Behalai block of Biswanath district.",
+      "Our journey has been marked by a commitment to academic excellence and holistic development. With a current student strength of 724, we provide a nurturing environment that fosters intellectual growth, creativity, and character development.",
+      "Located in the serene village of Sukansuti, our institution is recognized by the State Board and offers a co-educational environment that respects diversity and promotes inclusive education. Our modern facilities and dedicated faculty ensure that every student receives the attention and resources they need to succeed."
+    ]
+  },
+  "missionVision": {
+    "mission": {
+      "title": "Our Mission",
+      "icon": "Target",
+      "description": "To provide quality education that empowers students from rural Assam to achieve their full potential, fostering academic excellence, critical thinking, and ethical values in a supportive and inclusive environment."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "icon": "Eye",
+      "description": "To be the leading educational institution in Behalai block, recognized for academic excellence, innovative teaching methods, and for nurturing responsible citizens who contribute positively to society."
+    }
+  },
+  "values": {
+    "title": "Our Core Values",
+    "items": [
+      {
+        "title": "Excellence",
+        "description": "Striving for the highest academic standards and personal growth",
+        "icon": "Award"
+      },
+      {
+        "title": "Inclusivity",
+        "description": "Providing equal opportunities for all students in our rural community",
+        "icon": "Users"
+      },
+      {
+        "title": "Innovation",
+        "description": "Implementing modern teaching methods while preserving traditional values",
+        "icon": "Target"
+      },
+      {
+        "title": "Integrity",
+        "description": "Upholding honesty, ethics, and moral values in all our actions",
+        "icon": "Eye"
+      }
+    ]
+  },
+  "history": {
+    "foundingYear": 2012,
+    "founder": "Gyanam Education Trust",
+    "milestones": [
+      {
+        "year": 2012,
+        "event": "Gyanam Academy established in Sukansuti, Assam"
+      },
+      {
+        "year": 2014,
+        "event": "Expanded to include upper primary section (Classes 6-8)"
+      },
+      {
+        "year": 2016,
+        "event": "Started secondary education with Class 9 & 10"
+      },
+      {
+        "year": 2018,
+        "event": "Recognized by the State Education Department"
+      },
+      {
+        "year": 2020,
+        "event": "Launched higher secondary section (Classes 11 & 12)"
+      },
+      {
+        "year": 2022,
+        "event": "Awarded for academic excellence in Behalai Block"
+      },
+      {
+        "year": 2023,
+        "event": "Expanded digital infrastructure with new computer lab"
+      }
+    ]
+  },
+  "mission": "To provide quality education that transforms students into responsible, ethical leaders and lifelong learners who contribute meaningfully to society through innovation, research, and service.",
+  "vision": "To be a globally recognized institution of academic excellence that fosters intellectual growth, critical thinking, and holistic development of students.",
+  "coreValues": [
+    "Excellence in Education",
+    "Integrity and Ethics",
+    "Innovation and Creativity",
+    "Inclusivity and Diversity",
+    "Social Responsibility",
+    "Lifelong Learning"
+  ],
+  "schoolInfo": {
+    "name": "Gyanam Academy",
+    "udiseCode": "18280603610",
+    "establishmentYear": 2012,
+    "location": {
+      "village": "Sukansuti",
+      "block": "Behalai",
+      "district": "Biswanath",
+      "state": "Assam",
+      "pincode": "784167"
+    },
+    "management": "Private Unaided (Recognized)",
+    "schoolType": "Co-educational",
+    "affiliation": "State Board",
+    "classes": {
+      "from": 1,
+      "to": 12
+    },
+    "facilities": {
+      "buildingStatus": "Private",
+      "library": true,
+      "internet": true,
+      "toilets": {
+        "boys": 2,
+        "girls": 2,
+        "cwsn": 0
+      },
+      "drinkingWater": true,
+      "handWash": true,
+      "boundaryWall": "Pucca",
+      "digitalInfrastructure": {
+        "desktops": 15,
+        "laptops": 2,
+        "printers": 3,
+        "scanners": 2
+      }
+    }
+  },
+  "governingBody": [
+    {
+      "name": "[Chairman's Name]",
+      "designation": "Chairman",
+      "qualification": ""
+    },
+    {
+      "name": "[Secretary's Name]",
+      "designation": "Secretary",
+      "qualification": ""
+    }
+  ],
+  "awardsAndAchievements": [
+    "Recognized by the State Education Department for academic excellence",
+    "Awarded for maintaining excellent infrastructure and facilities",
+    "Consistently achieving high pass percentages in board examinations",
+    "Best Placement Record 2019 - National HRD Network",
+    "Innovation in Teaching Methodology 2018 - AICTE"
+  ],
+  "partnerships": [
+    {
+      "name": "Tech Solutions Inc.",
+      "type": "Industry Partner",
+      "focus": "Internship and Research Collaboration"
+    },
+    {
+      "name": "Global University",
+      "type": "International Academic Partner",
+      "focus": "Student Exchange Program"
+    },
+    {
+      "name": "Skill Development Council",
+      "type": "Skill Development Partner",
+      "focus": "Vocational Training Programs"
+    }
+  ]
+}

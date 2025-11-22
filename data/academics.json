@@ -1,0 +1,143 @@
+{
+  "schoolInfo": {
+    "name": "Gyanam Academy",
+    "affiliation": "State Board of Assam",
+    "classes": {
+      "primary": {
+        "from": 1,
+        "to": 5,
+        "description": "Foundational education focusing on basic literacy, numeracy, and social skills."
+      },
+      "upperPrimary": {
+        "from": 6,
+        "to": 8,
+        "description": "Building on foundational skills with introduction to more complex subjects."
+      },
+      "secondary": {
+        "from": 9,
+        "to": 10,
+        "description": "Secondary education preparing for the state board examinations.",
+        "subjects": [
+          "First Language (Assamese/English)",
+          "Second Language (English/Assamese)",
+          "Mathematics",
+          "Science",
+          "Social Science",
+          "General Knowledge",
+          "Computer Applications"
+        ]
+      },
+      "higherSecondary": {
+        "from": 11,
+        "to": 12,
+        "description": "Higher secondary education with specialized streams.",
+        "streams": [
+          {
+            "name": "Science",
+            "subjects": ["Physics", "Chemistry", "Mathematics/Biology", "English", "Assamese"]
+          },
+          {
+            "name": "Commerce",
+            "subjects": ["Accountancy", "Business Studies", "Economics", "English", "Assamese"]
+          },
+          {
+            "name": "Arts",
+            "subjects": ["History", "Political Science", "Education", "English", "Assamese"]
+          }
+        ]
+      }
+    }
+  },
+  "academicCalendar": {
+    "academicYear": "April 2025 - March 2026",
+    "terms": [
+      {
+        "name": "First Term",
+        "startDate": "April 1, 2025",
+        "endDate": "September 30, 2025",
+        "breaks": [
+          {
+            "name": "Summer Vacation",
+            "startDate": "May 15, 2025",
+            "endDate": "June 30, 2025"
+          }
+        ]
+      },
+      {
+        "name": "Second Term",
+        "startDate": "October 1, 2025",
+        "endDate": "March 31, 2026",
+        "breaks": [
+          {
+            "name": "Winter Vacation",
+            "startDate": "December 25, 2025",
+            "endDate": "January 5, 2026"
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      "April 1, 2025: New Academic Year Begins",
+      "May 1, 2025: May Day",
+      "August 15, 2025: Independence Day",
+      "October 2, 2025: Gandhi Jayanti",
+      "January 26, 2026: Republic Day"
+    ]
+  },
+  "examinations": {
+    "assessmentPattern": {
+      "primary": "Continuous and Comprehensive Evaluation (CCE)",
+      "upperPrimary": "Periodic Tests + Term Exams",
+      "secondary": "Pre-Board + Board Exams",
+      "higherSecondary": "Unit Tests + Pre-Board + Board Exams"
+    },
+    "schedule": [
+      {
+        "exam": "First Terminal Exam",
+        "classes": "1-12",
+        "date": "July 2025"
+      },
+      {
+        "exam": "Half-Yearly Exam",
+        "classes": "1-12",
+        "date": "September 2025"
+      },
+      {
+        "exam": "Second Terminal Exam",
+        "classes": "1-12",
+        "date": "December 2025"
+      },
+      {
+        "exam": "Annual/Board Exams",
+        "classes": "1-11",
+        "date": "February-March 2026"
+      },
+      {
+        "exam": "Board Exams",
+        "classes": "10 & 12",
+        "date": "February-March 2026"
+      }
+    ]
+  },
+  "facilities": {
+    "library": {
+      "available": true,
+      "timing": "9:00 AM - 3:00 PM",
+      "features": ["Textbooks", "Reference Books", "Newspapers", "Magazines"]
+    },
+    "computerLab": {
+      "available": true,
+      "systems": 15,
+      "features": ["Internet Access", "Educational Software", "Printing Facility"]
+    },
+    "sports": {
+      "available": true,
+      "facilities": ["Outdoor Games", "Indoor Games", "Annual Sports Day"]
+    }
+  },
+  "scholarships": [
+    "State Government Merit Scholarship",
+    "National Means-cum-Merit Scholarship",
+    "Scholarship for SC/ST Students"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "title": "Our Achievements & Milestones",
+    "subtitle": "Celebrating academic excellence and achievements at Gyanam Academy"
+  },
+  "achievements": [
+    {
+      "year": "2024",
+      "items": [
+        {
+          "icon": "Trophy",
+          "title": "Academic Excellence Award",
+          "description": "Recognized by the State Education Department for outstanding board exam results",
+          "category": "Academic Excellence"
+        },
+        {
+          "icon": "Award",
+          "title": "Green School Award",
+          "description": "Awarded for environmental initiatives and sustainable practices",
+          "category": "Environmental Stewardship"
+        },
+        {
+          "icon": "Star",
+          "title": "100% Pass Rate",
+          "description": "Achieved 100% pass percentage in Class 10 and 12 board examinations",
+          "category": "Academic Achievement"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "items": [
+        {
+          "icon": "Medal",
+          "title": "Sports Excellence",
+          "description": "Won multiple medals in District Level Sports Competition",
+          "category": "Sports"
+        },
+        {
+          "icon": "BookOpen",
+          "title": "Reading Initiative",
+          "description": "Recognized for best library usage and reading program in the district",
+          "category": "Academic Initiative"
+        },
+        {
+          "icon": "Users",
+          "title": "Community Service Award",
+          "description": "Acknowledged for outstanding community service and social initiatives",
+          "category": "Social Responsibility"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "items": [
+        {
+          "icon": "Award",
+          "title": "Best School in Behalai Block",
+          "description": "Recognized for overall academic performance and infrastructure",
+          "category": "Academic Excellence"
+        },
+        {
+          "icon": "Star",
+          "title": "Cultural Festival Success",
+          "description": "Won first prize in District Level School Cultural Festival",
+          "category": "Cultural"
+        },
+        {
+          "icon": "Users",
+          "title": "Teacher Excellence Award",
+          "description": "Our faculty member received District Level Best Teacher Award",
+          "category": "Faculty Achievement"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Pass Rate",
+      "description": "Consistent 100% pass rate in board examinations"
+    },
+    {
+      "value": "724",
+      "label": "Students",
+      "description": "Dedicated learners from Class 1 to 12"
+    },
+    {
+      "value": "15+",
+      "label": "Qualified Teachers",
+      "description": "Experienced and dedicated teaching staff"
+    },
+    {
+      "value": "2012",
+      "label": "Established",
+      "description": "Years of excellence in education since 2012"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "academic": {
+    "title": "Academic Excellence",
+    "description": "Glimpses of our academic environment, classrooms, and learning spaces",
+    "images": [
+      {
+        "src": "/gallery/academic/classroom1.jpg",
+        "alt": "Modern classroom with smart board",
+        "caption": "Smart Classrooms with Digital Learning Tools"
+      },
+      {
+        "src": "/gallery/academic/lab1.jpg",
+        "alt": "Students working in computer lab",
+        "caption": "State-of-the-art Computer Laboratory"
+      },
+      {
+        "src": "/gallery/academic/library1.jpg",
+        "alt": "College library interior",
+        "caption": "Well-stocked Central Library"
+      }
+    ]
+  },
+  "campus": {
+    "title": "Campus Life",
+    "description": "Explore our beautiful campus and facilities",
+    "images": [
+      {
+        "src": "/gallery/campus/aerial-view.jpg",
+        "alt": "Aerial view of campus",
+        "caption": "Bird's Eye View of Gyanam Campus"
+      },
+      {
+        "src": "/gallery/campus/amphitheater.jpg",
+        "alt": "Open air amphitheater",
+        "caption": "Open Air Amphitheater for Cultural Events"
+      },
+      {
+        "src": "/gallery/campus/cafeteria.jpg",
+        "alt": "Campus cafeteria",
+        "caption": "Spacious and Hygienic Cafeteria"
+      }
+    ]
+  },
+  "events": {
+    "title": "Events & Activities",
+    "description": "Highlights from our annual events and activities",
+    "images": [
+      {
+        "src": "/gallery/events/annual-day1.jpg",
+        "alt": "Annual day performance",
+        "caption": "Annual Cultural Festival 2023"
+      },
+      {
+        "src": "/gallery/events/workshop1.jpg",
+        "alt": "Students in workshop",
+        "caption": "Industry Expert Workshop"
+      },
+      {
+        "src": "/gallery/events/graduation1.jpg",
+        "alt": "Graduation ceremony",
+        "caption": "Annual Convocation Ceremony"
+      }
+    ]
+  },
+  "sports": {
+    "title": "Sports & Fitness",
+    "description": "Our sports facilities and events",
+    "images": [
+      {
+        "src": "/gallery/sports/basketball.jpg",
+        "alt": "Basketball court",
+        "caption": "Indoor Basketball Court"
+      },
+      {
+        "src": "/gallery/sports/cricket.jpg",
+        "alt": "Cricket ground",
+        "caption": "Professional Cricket Ground"
+      },
+      {
+        "src": "/gallery/sports/gym.jpg",
+        "alt": "College gym",
+        "caption": "Fully Equipped Gymnasium"
+      }
+    ]
+  },
+  "videos": [
+    {
+      "title": "Campus Tour 2023",
+      "thumbnail": "/gallery/videos/tour-thumbnail.jpg",
+      "url": "https://youtube.com/embed/example1",
+      "duration": "5:30"
+    },
+    {
+      "title": "Annual Day Highlights",
+      "thumbnail": "/gallery/videos/annual-day-thumbnail.jpg",
+      "url": "https://youtube.com/embed/example2",
+      "duration": "3:45"
+    },
+    {
+      "title": "Student Testimonials",
+      "thumbnail": "/gallery/videos/testimonials-thumbnail.jpg",
+      "url": "https://youtube.com/embed/example3",
+      "duration": "4:15"
+    }
+  ]
+}

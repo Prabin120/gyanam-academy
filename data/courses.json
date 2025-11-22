@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "title": "Our Academic Curriculum",
+    "subtitle": "Comprehensive education from primary to higher secondary level, nurturing young minds for a brighter future.",
+    "description": "We provide a well-rounded education with a focus on academic excellence, character building, and holistic development."
+  },
+  "features": [
+    {
+      "icon": "BookOpen",
+      "title": "CBSE Aligned Curriculum",
+      "description": "Following the national curriculum with a focus on conceptual learning and practical applications."
+    },
+    {
+      "icon": "Clock",
+      "title": "Structured Learning",
+      "description": "Balanced schedule with academic and co-curricular activities."
+    },
+    {
+      "icon": "Users",
+      "title": "Qualified Educators",
+      "description": "Dedicated and experienced teachers committed to student success."
+    },
+    {
+      "icon": "Award",
+      "title": "Holistic Development",
+      "description": "Focus on academics, sports, arts, and life skills for overall growth."
+    }
+  ],
+  "curriculum": [
+    {
+      "level": "Primary (Classes 1-5)",
+      "description": "Foundational learning with a focus on literacy, numeracy, and social skills development.",
+      "keyFeatures": [
+        "Activity-based learning",
+        "Focus on basic language and math skills",
+        "Introduction to environmental studies",
+        "Creative arts and physical education"
+      ],
+      "subjects": {
+        "class1_2": ["English", "Assamese", "Mathematics", "Environmental Studies", "General Knowledge", "Drawing"],
+        "class3_5": ["English", "Assamese", "Hindi", "Mathematics", "Environmental Science", "General Knowledge", "Computer Basics", "Art & Craft"]
+      }
+    },
+    {
+      "level": "Upper Primary (Classes 6-8)",
+      "description": "Building strong academic foundations with introduction to specialized subjects.",
+      "keyFeatures": [
+        "Introduction to Science and Social Studies",
+        "Development of analytical thinking",
+        "Computer literacy and applications",
+        "Life skills and value education"
+      ],
+      "subjects": [
+        "English",
+        "Assamese",
+        "Hindi",
+        "Mathematics",
+        "Science (Physics, Chemistry, Biology)",
+        "Social Studies (History, Geography, Civics)",
+        "Computer Science",
+        "General Knowledge",
+        "Art Education"
+      ]
+    },
+    {
+      "level": "Secondary (Classes 9-10)",
+      "description": "Preparing for board examinations with comprehensive subject knowledge.",
+      "keyFeatures": [
+        "Board examination preparation",
+        "Career guidance and counseling",
+        "Skill development programs",
+        "Project-based learning"
+      ],
+      "subjects": [
+        "English (Communicative)",
+        "Assamese (Second Language)",
+        "Mathematics",
+        "Science (Physics, Chemistry, Biology)",
+        "Social Science (History, Geography, Political Science, Economics)",
+        "Information Technology",
+        "Work Education",
+        "Health & Physical Education"
+      ]
+    },
+    {
+      "level": "Higher Secondary (Classes 11-12)",
+      "description": "Specialized streams to prepare students for higher education and career paths.",
+      "streams": [
+        {
+          "name": "Science Stream",
+          "coreSubjects": ["English Core", "Physics", "Chemistry", "Mathematics/Biology"],
+          "electives": ["Computer Science", "Informatics Practices", "Physical Education"],
+          "careerPaths": ["Engineering", "Medical", "Pure Sciences", "Research"]
+        },
+        {
+          "name": "Commerce Stream",
+          "coreSubjects": ["English Core", "Accountancy", "Business Studies", "Economics"],
+          "electives": ["Mathematics", "Informatics Practices", "Entrepreneurship", "Physical Education"],
+          "careerPaths": ["Chartered Accountancy", "Business Management", "Banking", "Finance"]
+        },
+        {
+          "name": "Arts/Humanities Stream",
+          "coreSubjects": ["English Core", "History", "Political Science", "Economics/Education"],
+          "electives": ["Assamese", "Alternative English", "Sociology", "Philosophy", "Physical Education"],
+          "careerPaths": ["Civil Services", "Law", "Social Work", "Education", "Journalism"]
+        }
+      ]
+    }
+  ],
+  "coCurricularActivities": {
+    "title": "Co-Curricular Activities",
+    "activities": [
+      "Sports (Cricket, Football, Badminton, Athletics)",
+      "Literary Club",
+      "Science Club",
+      "Cultural Activities",
+      "Art & Craft",
+      "Music & Dance",
+      "Debate & Quiz Competitions"
+    ]
+  },
+  "admissionProcess": {
+    "title": "Admission Process",
+    "steps": [
+      "Submission of application form with required documents",
+      "Interaction with school authorities",
+      "Verification of documents",
+      "Payment of fees"
+    ],
+    "documentsRequired": [
+      "Birth Certificate",
+      "Previous year's report card",
+      "Transfer Certificate (if applicable)",
+      "Passport size photographs",
+      "Aadhar Card (if available)"
+    ]
+  },
+  "scholarships": {
+    "title": "Scholarships & Financial Aid",
+    "programs": [
+      {
+        "name": "Merit Scholarship",
+        "eligibility": "90% and above in previous class",
+        "benefit": "25% tuition fee waiver"
+      },
+      {
+        "name": "Sports Quota",
+        "eligibility": "Achievers in state/national level competitions",
+        "benefit": "Up to 50% fee waiver"
+      },
+      {
+        "name": "Economically Weaker Section",
+        "eligibility": "Based on family income certificate",
+        "benefit": "Fee concession as per government norms"
+      }
+    ]
+  }
+}
