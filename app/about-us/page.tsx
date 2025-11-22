@@ -1,7 +1,7 @@
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Card, CardContent } from "@/components/ui/card";
-import { Target, Eye, Award, Users, MapPin, BookOpen, Home, Phone, Mail, Globe } from "lucide-react";
+import { Target, Eye, Award, Users, MapPin, BookOpen, Home} from "lucide-react";
 import aboutData from "@/data/about.json";
 
 // Helper function to get icon component by name
